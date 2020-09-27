@@ -57,6 +57,6 @@ email: ""
 #user_groups:
 #- Researchers
 #- Visitors
-#---
+---
 
 I am a Accounting PhD student at Amsterdam Business School, specializing in management accounting research. Using lab-based and online experiments, I want to contribute towards developing a theory that more accurately predicts what information companies should report to supervisors, and how supervisors should use this information to best motivate employees.
