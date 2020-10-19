@@ -2,7 +2,7 @@
 title: "The Effects of Reporting Structure and Reporting Frequency on Discretionary Rewards and Employee Effort"
 authors:
 - admin
-- Victor Maas
+
 date: "2020-04-07T00:00:00Z"
 doi: ""
 
