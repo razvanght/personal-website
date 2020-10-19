@@ -28,10 +28,8 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
+url_pdf: https://www.dropbox.com/s/a06iazt3lzq588b/Do%20Supervisors%20Reward%20Observable%20Luck.pdf?dl=1
+url_code: https://bit.ly/obs_luck_code
 url_video: '#'
 
 # Featured image

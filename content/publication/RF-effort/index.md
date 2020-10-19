@@ -1,8 +1,9 @@
 ---
-title: "An example preprint / working paper"
+title: "The Effects of Reporting Structure and Reporting Frequency on Discretionary Rewards and Employee Effort"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Victor Maas
+date: "2020-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,26 +19,16 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: We examine whether supervisors' discretionary award allocations are affected by two features of the organizational control system: span of control and reporting frequency. In addition, we examine whether employees anticipate supervisors’ reward allocations, and adjust their effort levels based on their supervisor’s span of control and the frequency with which their performance is reported. In an online experiment, we examine supervisors' behavior. We confirm our theory that span of control increases the rewards allocated to top performers and decreases the rewards allocated to the weakest performers. We find no effect of reporting frequency on supervisors’ reward allocations. In a laboratory experiment, we examine employees' behavior. We find no support for our hypotheses that employee effort is affected by span of control and reporting frequency. Our study contributes to the management accounting literature on discretionary performance evaluation and control system design and has important implications for practice.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We examine whether supervisors' discretionary award allocations are affected by two features of the organizational control system: span of control and reporting frequency. In addition, we examine whether employees anticipate supervisors’ reward allocations, and adjust their effort levels based on their supervisor’s span of control and the frequency with which their performance is reported. In an online experiment, we examine supervisors' behavior. We confirm our theory that span of control increases the rewards allocated to top performers and decreases the rewards allocated to the weakest performers. We find no effect of reporting frequency on supervisors’ reward allocations. In a laboratory experiment, we examine employees' behavior. We find no support for our hypotheses that employee effort is affected by span of control and reporting frequency. Our study contributes to the management accounting literature on discretionary performance evaluation and control system design and has important implications for practice.
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: https://www.dropbox.com/s/hcanxyrez6b455h/The%20Effects%20of%20Reporting%20Structure%20and.pdf?dl=1
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

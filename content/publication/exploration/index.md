@@ -2,7 +2,7 @@
 title: "Reporting Frquency and Learning by Experience"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2020-04-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,26 +18,19 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Using an experiment, I investigate whether increasing reporting frequency affects supervisor evaluation decisions and employee experiential learning in a discretionary evaluation setting. Employees learn by either exploring new knowledge or exploiting existing knowledge. Supervisors may be unable to distinguish unsuccessful exploration from shirking as the cause of a low result because exploration frequently produces low outcomes. Anticipating this, employees can explore below optimal levels because they are uncertain whether supervisors will reward their effort. Increasing reporting frequency improves supervisors’ ability to distinguish unsuccessful exploration from shirking. Thus, I predict and find that investing effort in unsuccessful exploration results in higher employee bonuses when reporting frequency increases. Contrary to my prediction, employees do not appear to anticipate this and do not explore more when reporting frequency increases. My results suggest employees can fail to anticipate which actions supervisors will reward, making supervisors less effective at directing employee effort towards desirable actions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Using an experiment, I investigate whether increasing reporting frequency affects supervisor evaluation decisions and employee experiential learning in a discretionary evaluation setting. Employees learn by either exploring new knowledge or exploiting existing knowledge. Supervisors may be unable to distinguish unsuccessful exploration from shirking as the cause of a low result because exploration frequently produces low outcomes. Anticipating this, employees can explore below optimal levels because they are uncertain whether supervisors will reward their effort. Increasing reporting frequency improves supervisors’ ability to distinguish unsuccessful exploration from shirking. Thus, I predict and find that investing effort in unsuccessful exploration results in higher employee bonuses when reporting frequency increases. Contrary to my prediction, employees do not appear to anticipate this and do not explore more when reporting frequency increases. My results suggest employees can fail to anticipate which actions supervisors will reward, making supervisors less effective at directing employee effort towards desirable actions.
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+
+url_pdf: https://www.dropbox.com/s/qcas2tmceg437on/Reporting%20Frequency%20and%20Learning%20by.pdf?dl=1
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
