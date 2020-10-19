@@ -2,7 +2,6 @@
 title: "The Effects of Reporting Structure and Reporting Frequency on Discretionary Rewards and Employee Effort"
 authors:
 - admin
-
 date: "2020-04-07T00:00:00Z"
 doi: ""
 
@@ -20,6 +19,7 @@ publication: ""
 publication_short: ""
 
 abstract: We examine whether supervisors' discretionary award allocations are affected by two features of the organizational control system: span of control and reporting frequency. In addition, we examine whether employees anticipate supervisors’ reward allocations, and adjust their effort levels based on their supervisor’s span of control and the frequency with which their performance is reported. In an online experiment, we examine supervisors' behavior. We confirm our theory that span of control increases the rewards allocated to top performers and decreases the rewards allocated to the weakest performers. We find no effect of reporting frequency on supervisors’ reward allocations. In a laboratory experiment, we examine employees' behavior. We find no support for our hypotheses that employee effort is affected by span of control and reporting frequency. Our study contributes to the management accounting literature on discretionary performance evaluation and control system design and has important implications for practice.
+
 # Summary. An optional shortened abstract.
 summary: We examine whether supervisors' discretionary award allocations are affected by two features of the organizational control system: span of control and reporting frequency. In addition, we examine whether employees anticipate supervisors’ reward allocations, and adjust their effort levels based on their supervisor’s span of control and the frequency with which their performance is reported. In an online experiment, we examine supervisors' behavior. We confirm our theory that span of control increases the rewards allocated to top performers and decreases the rewards allocated to the weakest performers. We find no effect of reporting frequency on supervisors’ reward allocations. In a laboratory experiment, we examine employees' behavior. We find no support for our hypotheses that employee effort is affected by span of control and reporting frequency. Our study contributes to the management accounting literature on discretionary performance evaluation and control system design and has important implications for practice.
 
@@ -32,10 +32,7 @@ url_pdf: https://www.dropbox.com/s/hcanxyrez6b455h/The%20Effects%20of%20Reportin
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
