@@ -30,7 +30,7 @@ featured: false
 links:
 url_pdf: https://www.dropbox.com/s/a06iazt3lzq588b/Do%20Supervisors%20Reward%20Observable%20Luck.pdf?dl=1
 url_code: https://bit.ly/obs_luck_code
-url_video: '#'
+url_video: https://www.youtube.com/watch?v=jTYPknAx6Rw&ab_channel=RazvanGhita
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
