@@ -29,7 +29,7 @@ featured: false
 
 links:
 
-#url_pdf: https://www.dropbox.com/s/qcas2tmceg437on/Reporting%20Frequency%20and%20Learning%20by.pdf?dl=1
+##url_pdf: https://www.dropbox.com/s/qcas2tmceg437on/Reporting%20Frequency%20and%20Learning%20by.pdf?dl=1
 
 
 # Featured image
