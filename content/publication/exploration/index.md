@@ -1,5 +1,5 @@
 ---
-title: "Reporting Frequency and Learning by Experience"
+title: "Reporting Frequency and Learning from Experience"
 authors:
 - admin
 date: "2020-04-08T00:00:00Z"
