@@ -30,7 +30,6 @@ featured: false
 
 links:
 
-url_pdf: https://www.dropbox.com/s/hcanxyrez6b455h/The%20Effects%20of%20Reporting%20Structure%20and.pdf?dl=1
 
 
 # Featured image
